@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rulet_varenie" size="1.000000 0.750000" />
+    <ImageTarget name="ytka_s_funchoze" size="1.000000 0.500000" />
+    <ImageTarget name="svinina_granat" size="1.000000 0.500000" />
+    <ImageTarget name="sloika" size="1.000000 0.500000" />
+    <ImageTarget name="sirniysup" size="1.000000 0.500000" />
+    <ImageTarget name="salat_iz_tunca" size="1.000000 0.500000" />
+    <ImageTarget name="gribpure" size="1.000000 0.500000" />
+    <ImageTarget name="crumble" size="1.000000 0.500000" />
+    <ImageTarget name="Cezar" size="1.000000 0.500000" />
+    <ImageTarget name="julien" size="1.000000 0.625000" />
+  </Tracking>
+</QCARConfig>
